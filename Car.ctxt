@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\n\ This\ is\ Car\ Class\ representing\ a\ Car\ owned\ by\ person\ and\ that\ can\ be\ parked\ to\ any\ parking\ spot\ in\ parking\ area\n\ \n\ @author\ \ \ \ \ \ Sujit\ Ghosh\n\ @ID\ \ \ \ \ \ \ \ \ \ 102233329\n\ @email\ \ \ \ \ \ \ sujit.bit.0329@gmail.com\n\ @version\ \ \ \ \ 1.0.0\n
+comment1.params=registrationNumber\ ownerName\ isOwnerDisabled
+comment1.target=Car(java.lang.String,\ java.lang.String,\ boolean)
+comment1.text=\n\ This\ is\ the\ constructor\ of\ Car\ class\ initializing\ the\ registration\ number\ of\ the\ car,\ owner\ name\ and\ disability\ status\ of\ a\ car\ owner\n\ \n\ @param\ registrationNumber\ registration\ number\ of\ car\ in\ String\n\ @param\ ownerName\ the\ name\ of\ the\ owner\ in\ String\n\ @param\ isOwnerDisabled\ the\ boolean\ value\ if\ the\ owner\ is\ disabled\ or\ not\n
+comment2.params=
+comment2.target=java.lang.String\ getRegistrationNumber()
+comment2.text=\n\ getRegistrationNumber()\ method\ returns\ the\ registration\ number\ of\ the\ car\n\ \n\ @return\ registartion\ number\ is\ returned\ as\ a\ srting\n
+comment3.params=
+comment3.target=java.lang.String\ getOwnerName()
+comment3.text=\n\ getOwnerName()\ method\ returns\ the\ name\ of\ the\ owner\ name\ of\ the\ car\n\ \n\ @return\ owner\ name\ of\ the\ car\ is\ returned\ as\ a\ srting\n
+comment4.params=
+comment4.target=boolean\ getIsOwnerDisabled()
+comment4.text=\n\ getIsOwnerDisabled()\ method\ returns\ the\ disability\ status\ of\ the\ owner\ of\ the\ car\n\ \n\ @return\ owner's\ disability\ status\ is\ returned\ as\ a\ boolean\n
+numComments=5

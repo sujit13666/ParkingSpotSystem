@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ParkingSpot
+comment0.text=\n\ This\ is\ ParkingSpot\ Class\ representing\ a\ parking\ spot\ in\ the\ parking\ area\ where\ cars\ can\ be\ parked.\ It\ can\ be\ of\ 2\ types\ like\ for\ disabled\ person\ and\ for\ everyone.\n\ \n\ @author\ \ \ \ \ \ Sujit\ Ghosh\n\ @ID\ \ \ \ \ \ \ \ \ \ 102233329\n\ @email\ \ \ \ \ \ \ sujit.bit.0329@gmail.com\n\ @version\ \ \ \ \ 1.0.0\n
+comment1.params=parkingSpotIdentifier\ parkingForDisabled
+comment1.target=ParkingSpot(java.lang.String,\ boolean)
+comment1.text=\n\ This\ is\ the\ constructor\ of\ ParkingSpot\ class\ initializing\ the\ parking\ spot\ of\ a\ parking\ area\ where\ car\ parking\ spot\ ID\ and\ disability\ allowance\ are\ provided\n\ \n\ @param\ parkingSpotIdentifier\ Parking\ spot\ ID\ as\ String\n\ @param\ parkingForDisabled\ parking\ spot\ is\ dedicated\ for\ the\ disabled\ in\ boolean\n
+comment2.params=
+comment2.target=java.lang.String\ getParkingSpotIdentifier()
+comment2.text=\n\ \ getParkingSpotIdentifier()\ method\ returns\ the\ ID\ of\ the\ parking\ spot\n\ \n\ @return\ parkingSpotIdentifier\ is\ retuened\ as\ a\ String\n
+comment3.params=
+comment3.target=boolean\ getParkingIsForDisabled()
+comment3.text=\n\ \ getParkingIsForDisabled()\ method\ returns\ if\ the\ parking\ spot\ is\ for\ the\ disabled\ person\ or\ for\ everyone\n\ \n\ @return\ parkingIsForDisabled\ is\ retuened\ as\ a\ boolean\ if\ true\ then\ its\ for\ only\ disabled\ person\ and\ if\ false\ then\ its\ for\ everyone\n
+comment4.params=
+comment4.target=Car\ getParkedCar()
+comment4.text=\n\ \ getParkedCar()\ method\ returns\ the\ car\ if\ the\ parking\ spot\ has\ any\ car\ parked\ in\ it\n\ \n\ @return\ car\ as\ a\ Car\ object\ if\ it\ is\ parked\ in\ the\ spot\n
+comment5.params=car
+comment5.target=void\ setCar(Car)
+comment5.text=\n\ \ setCar()\ method\ parks\ any\ car\ to\ the\ particular\ parking\ spot\n\ \n\ @param\ car\ Car\ object\ is\ set\ for\ parking\ in\ the\ parking\ spot\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ \ toString()\ method\ simplify\ the\ parking\ spot\ object\ into\ readable\ message\ and\ sent\ to\ the\ application\n\ \n\ @return\ A\ simplified\ readable\ message\ is\ retuned\ regarding\ parking\ spot\ as\ a\ String\n
+numComments=7

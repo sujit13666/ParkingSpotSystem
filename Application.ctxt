@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Application
+comment0.text=\n\ This\ Application\ Class\ consists\ of\ main\ method\ as\ well\ as\ interface\ representing\ the\ apllication\ as\ a\ whole.\ User\ can\ interact\ via\ this\ class\ directly\ with\ console.\n\ \n\ @author\ \ \ \ \ \ Sujit\ Ghosh\n\ @ID\ \ \ \ \ \ \ \ \ \ 102233329\n\ @email\ \ \ \ \ \ \ sujit.bit.0329@gmail.com\n\ @version\ \ \ \ \ 1.0.0\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ runApp()
+comment2.text=\n\ runApp()\ method\ Runs\ the\ application\ from\ begining\ to\ end\ using\ the\ option\ menu\n
+comment3.params=
+comment3.target=void\ addParkingSpot()
+comment3.text=\n\ \ addParkingSpot()\ method\ adds\ Parking\ Spot\n
+comment4.params=
+comment4.target=void\ deleteParkingSpot()
+comment4.text=\n\ \ deleteParkingSpot()\ method\ deletes\ Parking\ Spot\ from\ parking\ area\n
+comment5.params=
+comment5.target=void\ listAllParkingSpot()
+comment5.text=\n\ \ listAllParkingSpot()\ method\ list\ all\ the\ parking\ spot\ with\ details\n
+comment6.params=
+comment6.target=void\ parkCarInParkingSpot()
+comment6.text=\n\ \ parkCarInParkingSpot()\ method\ parks\ the\ car\ into\ provided\ parking\ spot\n
+comment7.params=
+comment7.target=void\ findCar()
+comment7.text=\n\ \ findCar()\ method\ searches\ for\ any\ parked\ car\ throughout\ the\ whole\ parking\ area\n
+comment8.params=
+comment8.target=void\ removeCar()
+comment8.text=\n\ \ removeCar()\ method\ removes\ any\ provided\ car\ from\ parking\ area\ which\ was\ parked\ previously\n
+numComments=9

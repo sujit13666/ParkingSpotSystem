@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CarPark
+comment0.text=\n\ This\ is\ CarPark\ Class\ representing\ the\ whole\ parking\ area\ consists\ of\ many\ parking\ spots\n\ \n\ @author\ \ \ \ \ \ Sujit\ Ghosh\n\ @ID\ \ \ \ \ \ \ \ \ \ 102233329\n\ @email\ \ \ \ \ \ \ sujit.bit.0329@gmail.com\n\ @version\ \ \ \ \ 1.0.0\n
+comment1.params=
+comment1.target=CarPark()
+comment1.text=\n\ This\ is\ the\ constructor\ of\ CarPark\ class\ initializing\ the\ ArrayList\ of\ Parking\ Spots\n
+comment2.params=parkingSpot
+comment2.target=void\ addParkingSpot(ParkingSpot)
+comment2.text=\n\ addParkingSpot()\ method\ adds\ any\ particular\ parking\ spot\ to\ the\ array\ list\ of\ parking\ spots\n\ \n\ @param\ parkingSpot\ parking\ spot\ provided\ by\ the\ application\ is\ added\ to\ the\ arraylist\n
+comment3.params=parkingSpot
+comment3.target=boolean\ removeParkingSpot(ParkingSpot)
+comment3.text=\n\ removeParkingSpot()\ method\ removes\ any\ particular\ parking\ spot\ from\ the\ array\ list\ of\ parking\ spots\n\ \n\ @param\ parkingSpot\ parking\ spot\ provided\ by\ the\ application\ is\ removed\ from\ the\ arraylist\n\ @return\ boolean\ if\ parking\ spot\ is\ removed\ or\ not\n
+comment4.params=
+comment4.target=java.util.ArrayList\ getAllParkingSpots()
+comment4.text=\n\ getAllParkingSpots()\ method\ returns\ all\ the\ parking\ spots\ in\ parking\ area\ as\ a\ list\n\ \n\ @return\ ArrayList\ consists\ of\ all\ parkingSpots\n
+comment5.params=parkingSpotIdentifier
+comment5.target=ParkingSpot\ checkIfParkingSpotExists(java.lang.String)
+comment5.text=\n\ checkIfParkingSpotExists()\ method\ checks\ if\ there\ is\ any\ parking\ spot\ exists\ in\ the\ provided\ identifier\n\ \n\ @param\ parkingSpotIdentifier\ a\ string\ provided\ to\ search\ wheather\ the\ name\ is\ unique\ in\ the\ parking\ spot\ list\n\ @return\ parkingSpot\ is\ returned\ if\ found\ in\ that\ provided\ name\n
+comment6.params=carRegistrationNumber
+comment6.target=ParkingSpot\ getParkingSpotOfParkedCar(java.lang.String)
+comment6.text=\n\ getParkingSpotOfParkedCar()\ method\ checks\ if\ there\ is\ any\ car\ parked\ in\ the\ parking\ area\ provided\ car's\ registration\ number\n\ \n\ @param\ carRegistrationNumber\ car's\ registration\ number\ is\ provided\ to\ search\ if\ the\ its\ been\ parked\ into\ the\ parking\ area\n\ @return\ parkingSpot\ is\ returned\ if\ found\ that\ car\ is\ parked\ there\n
+numComments=7
